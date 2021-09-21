@@ -1,0 +1,15 @@
+/Users/Gato/Documents/GitHub/Transferência_Brancária/obj/Debug/net5.0/Transferência_Brancária.csproj.AssemblyReference.cache
+/Users/Gato/Documents/GitHub/Transferência_Brancária/obj/Debug/net5.0/Transferência_Brancária.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Gato/Documents/GitHub/Transferência_Brancária/obj/Debug/net5.0/Transferência_Brancária.AssemblyInfoInputs.cache
+/Users/Gato/Documents/GitHub/Transferência_Brancária/obj/Debug/net5.0/Transferência_Brancária.AssemblyInfo.cs
+/Users/Gato/Documents/GitHub/Transferência_Brancária/obj/Debug/net5.0/Transferência_Brancária.csproj.CoreCompileInputs.cache
+/Users/Gato/Documents/GitHub/Transferência_Brancária/bin/Debug/net5.0/Transferência_Brancária.deps.json
+/Users/Gato/Documents/GitHub/Transferência_Brancária/bin/Debug/net5.0/Transferência_Brancária.runtimeconfig.json
+/Users/Gato/Documents/GitHub/Transferência_Brancária/bin/Debug/net5.0/Transferência_Brancária.runtimeconfig.dev.json
+/Users/Gato/Documents/GitHub/Transferência_Brancária/bin/Debug/net5.0/Transferência_Brancária.dll
+/Users/Gato/Documents/GitHub/Transferência_Brancária/bin/Debug/net5.0/ref/Transferência_Brancária.dll
+/Users/Gato/Documents/GitHub/Transferência_Brancária/bin/Debug/net5.0/Transferência_Brancária.pdb
+/Users/Gato/Documents/GitHub/Transferência_Brancária/obj/Debug/net5.0/Transferência_Brancária.dll
+/Users/Gato/Documents/GitHub/Transferência_Brancária/obj/Debug/net5.0/ref/Transferência_Brancária.dll
+/Users/Gato/Documents/GitHub/Transferência_Brancária/obj/Debug/net5.0/Transferência_Brancária.pdb
+/Users/Gato/Documents/GitHub/Transferência_Brancária/obj/Debug/net5.0/Transferência_Brancária.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Transferência_Brancária/1.0.0": {
+        "runtime": {
+          "Transferência_Brancária.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Transferência_Brancária/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
